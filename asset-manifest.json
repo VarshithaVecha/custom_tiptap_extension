@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/custom_tiptap_extension/static/css/main.416478a8.css",
+    "main.js": "/custom_tiptap_extension/static/js/main.94b6dcc1.js",
+    "static/js/488.3620b755.chunk.js": "/custom_tiptap_extension/static/js/488.3620b755.chunk.js",
+    "index.html": "/custom_tiptap_extension/index.html",
+    "main.416478a8.css.map": "/custom_tiptap_extension/static/css/main.416478a8.css.map",
+    "main.94b6dcc1.js.map": "/custom_tiptap_extension/static/js/main.94b6dcc1.js.map",
+    "488.3620b755.chunk.js.map": "/custom_tiptap_extension/static/js/488.3620b755.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.416478a8.css",
+    "static/js/main.94b6dcc1.js"
+  ]
+}
